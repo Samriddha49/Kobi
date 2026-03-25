@@ -10,7 +10,10 @@ A Retrieval-Augmented Generation application that delivers constructive literary
 ---
 ## Working demo
 ![A brief description of the screenshot](./images/rag1.png)
+
 ![A brief description of the screenshot](./images/rag2.png)
+
+![A brief description of the screenshot](./images/rag3.png)
 
 ## 🏗️ Tech Stack
 
