@@ -8,6 +8,9 @@ A Retrieval-Augmented Generation application that delivers constructive literary
 ![Ollama](https://img.shields.io/badge/LLM-Phi3%20via%20Ollama-orange)
 
 ---
+## Working demo
+![A brief description of the screenshot](./images/rag1.png)
+![A brief description of the screenshot](./images/rag2.png)
 
 ## 🏗️ Tech Stack
 
@@ -187,6 +190,3 @@ All settings are in [`config.py`](config.py):
 
 ---
 
-## 📄 License
-
-This project is open source. Feel free to use, modify, and distribute.
