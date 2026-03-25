@@ -1,0 +1,16 @@
+# Virtual environment
+v/
+
+
+# Python cache
+__pycache__/
+
+
+# Environment variables
+.env.example
+
+# Vector DB / generated data
+chroma_db/
+
+# VS Code
+.vscode/
