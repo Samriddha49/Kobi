@@ -58,7 +58,7 @@ PoetryRAG/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/PoetryRAG.git
+git clone https://github.com/Samriddha49/PoetryRAG.git
 cd PoetryRAG
 ```
 
