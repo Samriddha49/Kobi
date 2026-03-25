@@ -118,7 +118,7 @@ Open **http://localhost:8501** in your browser. On first launch, the app will au
 ### 1. Clone and build
 
 ```bash
-git clone https://github.com/<your-username>/PoetryRAG.git
+git clone https://github.com/Samriddha49/PoetryRAG.git
 cd PoetryRAG
 docker compose up --build
 ```
